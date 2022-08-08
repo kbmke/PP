@@ -1,0 +1,27 @@
+// PAGE RESET
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// UNIVERSAL VARIABLES
+:root {
+    font-size: 15PX;
+}
+
+// NOTE FORMATTING FOR DEVICES 365PX TO DEVICES 767PX WIDE
+@media only screen and (min-width: 365px) and (max-width: 767px) {
+    // ELEMENT FORMATTING
+    // ID FORMATTING
+    // CLASS FORMATTING
+    // UTILITY CLASS FORMATTING
+}
+
+// NOTE FORMATTING FOR DEVICES 768PX TO DEVICES 1400PX WIDE
+@media only screen and (min-width: 768px) and (max-width: 1400px) {
+    // ELEMENT FORMATTING
+    // ID FORMATTING
+    // CLASS FORMATTING
+    // UTILITY CLASSES
+}
